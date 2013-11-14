@@ -1,0 +1,27 @@
+# Compiled source #
+*.class
+*/bin/*
+
+# Eclipse files
+.project
+.classpath
+.settings
+
+# Packages
+*.jar
+
+# Maven build files
+target
+reports
+
+# PMD
+.pmd
+
+# Merge files
+*.orig
+
+# misc
+*~
+\#*\#
+/eiffel-core/work/
+nbactions.xml
